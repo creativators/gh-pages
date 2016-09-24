@@ -30,7 +30,7 @@
         .countdown-counter > span {
             display: inline-block;
             text-align: center;
-            font-family: 'Helvetica Neue';
+            font-family: 'Arial';
             font-weight: 100;
             font-size: 94px;
             letter-spacing: 7px;
@@ -57,7 +57,7 @@
 
         .countdown-title {
             margin-top: 30px;
-            font-family: 'DIN Alternate';
+            font-family: 'Arial';
             font-size: 48px;
             font-weight: 300;
             letter-spacing: 2.5px;
